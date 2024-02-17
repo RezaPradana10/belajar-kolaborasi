@@ -1,3 +1,3 @@
-# belajar-kolaborasi-squashing-changes
-Belajar melakukan squashing changes
-Perubahan 3
+# belajar-kolaborasi-code-reviews
+Melakukan code reviews di Dicoding
+
